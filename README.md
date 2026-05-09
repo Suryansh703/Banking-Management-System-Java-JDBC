@@ -20,20 +20,6 @@ This project is a Java-based software application that enables users to perform 
 
 **Database Management System**: This application is work with popular DBMS MySQL.
 
-## How to Run the Application
-->Install Java Development Kit (JDK) on your system, if not already installed.
-
-->Set up a compatible database management system (MySQL, Oracle, PostgreSQL, etc.) and create a database for the application.
-
-->Download or clone the project repository from https://github.com/Arpitpatel1706/Java-Menu-Driven-Banking-Application-with-JDBC.
-
-->Open the project in an integrated development environment (IDE) such as Eclipse or IntelliJ IDEA.
-
-->Configure the database connection details in the application, including the database URL, username, and password.
-
-->Build the project to compile the source code and resolve any dependencies.
-
-->Run the application, and the menu-driven interface will be displayed.
 
 ## Usage
 Upon launching the application, users will be presented with a menu of options to choose from. They can navigate through the menu by entering the corresponding option number. The available options include:
